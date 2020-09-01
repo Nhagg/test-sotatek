@@ -1,0 +1,33 @@
+.mx-input {
+  height: 38px !important;
+}
+.task-item {
+    margin-top: 20px;
+    border: solid 1px;
+}
+.task-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+.task-header label {
+    margin-left: 10px;
+    margin-bottom: 0px;
+}
+.header-title {
+    display: flex;
+    align-items: center;
+}
+.task-body {
+    padding: 20px;
+    border-top: solid 1px;
+}
+.bulk-action {
+  margin-top: 40px;
+  padding: 20px;
+  background-color: #999;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
